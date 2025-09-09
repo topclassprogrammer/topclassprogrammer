@@ -41,4 +41,4 @@ Linux, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, PostgreS
 
 [Python в web-разработке](https://github.com/topclassprogrammer/topclassprogrammer/blob/main/py_web.pdf)
 
-[Диплом]()
+[Диплом](https://github.com/topclassprogrammer/topclassprogrammer/blob/main/diploma.jpg)
