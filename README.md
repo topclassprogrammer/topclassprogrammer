@@ -25,7 +25,7 @@ Linux, Bash, Python, Django Framework, FastAPI, Flask, Httpio, Asyncio, PostgreS
 
 [Дипломная работа](https://github.com/topclassprogrammer/orders)
 
-## Сертификаты и диплом Нетологии
+## Достижения
 
 [Основы Python](https://github.com/topclassprogrammer/topclassprogrammer/blob/main/py_basic.pdf)
 
