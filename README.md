@@ -4,7 +4,12 @@
 ## Мой стек
 Python, Linux, Bash, Django, DRF, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis, MongoDB
 
-## Вот, что я умею
+## Мои работы
+
+[Telegram бот](https://github.com/topclassprogrammer/English_cards)
+
+[VK бот](https://github.com/topclassprogrammer/VKinder)
+
 [Django](https://github.com/topclassprogrammer/first_django_project)
 
 [FastAPI](https://github.com/topclassprogrammer/fastapi_ads_with_auth)
@@ -14,10 +19,6 @@ Python, Linux, Bash, Django, DRF, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, N
 [Aiohttp](https://github.com/topclassprogrammer/aiohttp_api_ads)
 
 [Asyncio](https://github.com/topclassprogrammer/asyncio_swapi)
-
-[Telegram бот](https://github.com/topclassprogrammer/English_cards)
-
-[VK бот](https://github.com/topclassprogrammer/VKinder)
 
 [Docker](https://github.com/topclassprogrammer/stocks_products_docker)
 
