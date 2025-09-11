@@ -2,7 +2,7 @@
 Я Иван Головинов, разработчик на python.
 
 ## Мой стек
-Python, Linux, Bash, Django, DRF, FastAPI, Flask, Httpio, Asyncio, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis, MongoDB
+Python, Django, DRF, FastAPI, Flask, Httpio, Asyncio, Linux, Bash, PostgreSQL, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis, MongoDB
 
 ## Мои работы
 
