@@ -10,6 +10,8 @@ Python, Django, DRF, FastAPI, Flask, Httpio, Asyncio, Linux, Bash, PostgreSQL, N
 
 [VK бот](https://github.com/topclassprogrammer/VKinder)
 
+[Cloud Backup](https://github.com/topclassprogrammer/VK_backup_photos)
+
 [Django](https://github.com/topclassprogrammer/first_django_project)
 
 [FastAPI](https://github.com/topclassprogrammer/fastapi_ads_with_auth)
