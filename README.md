@@ -18,6 +18,8 @@ Python, Django, DRF, FastAPI, Flask, Httpio, Asyncio, Linux, Bash, PostgreSQL, N
 
 [Flask](https://github.com/topclassprogrammer/flask_api_ads)
 
+[Celery](https://github.com/topclassprogrammer/celery_upscale)
+
 [Aiohttp](https://github.com/topclassprogrammer/aiohttp_api_ads)
 
 [Asyncio](https://github.com/topclassprogrammer/asyncio_swapi)
