@@ -42,6 +42,8 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 
 [Парсер логов](https://github.com/topclassprogrammer/log_parser)
 
+[Автоматизация запросов через API к Wildberries](https://github.com/topclassprogrammer/API_WB)
+
 [Django-приложение для работы с музыкальными каталогами](https://github.com/topclassprogrammer/music_catalog)
 
 [Приложение в Docker по управлению складами и товарами](https://github.com/topclassprogrammer/stocks_products_docker)
