@@ -30,6 +30,8 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 
 [Асинхронный апскейлинг фото с помощью ИИ](https://github.com/topclassprogrammer/celery_upscale)
 
+[Парсер логов](https://github.com/topclassprogrammer/log_parser)
+
 [FastAPI-приложение для работы с объявлениями](https://github.com/topclassprogrammer/fastapi_ads_with_auth)
 
 [Flask-приложение для работы с объявлениями](https://github.com/topclassprogrammer/flask_api_ads)
