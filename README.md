@@ -30,8 +30,6 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 
 [Асинхронный апскейлинг фото с помощью ИИ](https://github.com/topclassprogrammer/celery_upscale)
 
-[Парсер логов](https://github.com/topclassprogrammer/log_parser)
-
 [FastAPI-приложение для работы с объявлениями](https://github.com/topclassprogrammer/fastapi_ads_with_auth)
 
 [Flask-приложение для работы с объявлениями](https://github.com/topclassprogrammer/flask_api_ads)
@@ -41,6 +39,10 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 [Асинхронный веб-сервер Aiohttp с приложением для работы с объявлениями](https://github.com/topclassprogrammer/aiohttp_api_ads)
 
 [Асинхронное приложение для выгрузки из API персонажей Star Wars и загрузки их в базу данных](https://github.com/topclassprogrammer/asyncio_swapi)
+
+[Парсер логов](https://github.com/topclassprogrammer/log_parser)
+
+[Django-приложение для работы с музыкальными каталогами](https://github.com/topclassprogrammer/music_catalog)
 
 [Приложение в Docker по управлению складами и товарами](https://github.com/topclassprogrammer/stocks_products_docker)
 
