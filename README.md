@@ -5,6 +5,7 @@
 - Разработка веб-приложений и API на Python  
 - Фреймворки Django, FastApi, Flask  
 - SQL, PostgreSQL, SQLAlchemy, а также NoSQL - Redis, MongoDB, ElasticSearch
+- Брокеры сообщений Kafka и RabbitMQ
 - Docker  
 - Асинхронное программирование  
 - Юнит-тестирование  
