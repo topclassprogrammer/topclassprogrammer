@@ -1,22 +1,19 @@
 ## Привет!
-Я Иван Головинов — Python-разработчик, нацеленный на качественные решения и инновационные подходы в веб-разработке, стремящийся постоянно развивать свои навыки и делиться знаниями с сообществом.
+Я — Иван Головинов — Python-разработчик, нацеленный на качественные решения и инновационные подходы в веб-разработке, стремящийся постоянно развивать свои навыки и делиться знаниями с сообществом.
 
 ## Ключевые навыки
 - Разработка веб-приложений и API на Python  
-- Работа с фреймворками Django, FastApi, Flask  
-- Парсинг сайтов  
-- Настройка серверов  
-- Работа с базами данных с помощью SQL, PostgreSQL, SQLAlchemy  
-- ​​​​​​Создание REST API  
-- Юнит-тестирование  
+- Фреймворки Django, FastApi, Flask  
+- SQL, PostgreSQL, SQLAlchemy, а также NoSQL - Redis, MongoDB, ElasticSearch
+- Docker  
 - Асинхронное программирование  
-- Работа с HTTP API  
-- Применение паттернов проектирования  
-- Работа с методами непрерывной интеграции  
-- Работа с ПО для автоматизации развёртывания и управления приложениями — Docker  
+- Юнит-тестирование  
+- CI/CD  
+- Парсинг сайтов  
+- Настройка веб-серверов  
 
 ## Мой стек
-Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, PostgreSQL, SQLAlchemy, ORM, Nginx, Git, REST, Docker, Docker-compose, Celery, Redis, MongoDB, Pytest, Unit Testing, CI/CD, Selenium, BeautifulSoup4
+Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, PostgreSQL, SQLAlchemy, ORM, Redis, MongoDB, ElasticSearch, Kafka, RabbitMQ, Nginx, Git, REST, Docker, Docker-compose, Celery, Pytest, Unit Testing, CI/CD, Selenium, BeautifulSoup4
 
 ## Мои проекты
 
@@ -38,7 +35,7 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 
 [Асинхронный веб-сервер Aiohttp с приложением для работы с объявлениями](https://github.com/topclassprogrammer/aiohttp_api_ads)
 
-[Асинхронное приложение для выгрузки из API персонажей Star Wars и загрузки их в базу данных](https://github.com/topclassprogrammer/asyncio_swapi)
+[Асинхронное приложение для выгрузки из API персонажей Star Wars и загрузки их в БД](https://github.com/topclassprogrammer/asyncio_swapi)
 
 [Парсер логов](https://github.com/topclassprogrammer/log_parser)
 
@@ -46,9 +43,13 @@ Python, Django, DRF, FastAPI, Flask, Aiohttp, Asyncio, Linux, Bash, SQL, Postgre
 
 [Django-приложение для работы с музыкальными каталогами](https://github.com/topclassprogrammer/music_catalog)
 
-[Приложение в Docker по управлению складами и товарами](https://github.com/topclassprogrammer/stocks_products_docker)
+[Django-приложение по управлению складами и товарами](https://github.com/topclassprogrammer/stocks_products_docker_compose)
 
-[Приложение в Docker Compose по управлению складами и товарами](https://github.com/topclassprogrammer/stocks_products_docker_compose)
+[Приложение обзора фильмов с БД Elasticsearch](https://github.com/topclassprogrammer/movie_review)
+
+[Flask-приложение по созданию заявок с брокером сообщений RabbitMQ](https://github.com/topclassprogrammer/flask_service_desk)
+
+[FastAPI-приложение по созданию заявок с брокером сообщений Kafka](https://github.com/topclassprogrammer/fastapi_service_desk)
 
 ## Достижения
 
